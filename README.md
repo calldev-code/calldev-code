@@ -71,61 +71,6 @@ I believe technology is not only about writing code, but also about solving prob
 - 📝 Microsoft Office and documentation tools
 - 🔧 Development and API testing environments
 
----
-
-## 🚀 Featured Projects
-
-### 1. SILAPRAS4 — School Facilities Reporting System
-
-A web-based application developed to help students and school staff report problems related to school facilities and infrastructure.
-
-**Project objectives:**
-- Simplify the process of submitting facility complaints.
-- Help administrators manage incoming reports.
-- Allow users to monitor complaint status.
-- Organize complaint information in a structured database.
-
-**Main features:**
-- User authentication and account management.
-- Facility complaint submission.
-- Complaint categories and evidence images.
-- Complaint status tracking.
-- Administrative complaint management.
-- Reporting and data management.
-
-**Technologies:** Laravel, PHP, MySQL, HTML, CSS, JavaScript.
-
-**Project type:** School Competency Examination (UKK).
-
-🔗 **Repository:** [Add your SILAPRAS4 repository URL here]
-
----
-
-### 2. Task Management API — Backend Development
-
-A backend API project designed to support task management and work organization.
-
-**Project objectives:**
-- Manage users and task-related information.
-- Support structured task management workflows.
-- Provide API endpoints for application integration.
-- Improve understanding of backend development.
-
-**Project focus:**
-- REST API development.
-- Authentication and authorization.
-- Request validation.
-- Database integration.
-- Task and user management.
-- API testing using Postman.
-
-**Technologies:** Laravel, PHP, MySQL, Postman.
-
-**Project type:** Internship / Praktik Kerja Lapangan (PKL).
-
-🔗 **Repository:** [Add your Task Management API repository URL here]
-
----
 
 ### 3. Web Development Practice
 
@@ -195,22 +140,7 @@ As an Information Systems student, I'm interested in the relationship between te
 - [ ] Build a professional portfolio for internships and future employment.
 - [ ] Continue learning through courses, projects, and practical experience.
 
----
 
-## 📂 My Documentation Principles
-
-I use GitHub not only to store code, but also to preserve the development process and lessons learned from each project.
-
-- 📝 Write clear README files for projects.
-- 🗂️ Organize source code and project files.
-- 🔀 Use meaningful Git commit messages.
-- 🐛 Document bugs, fixes, and improvements.
-- 🧪 Record testing procedures and results.
-- 📐 Preserve relevant database diagrams and system designs.
-- 🔐 Protect passwords, API keys, tokens, and private information.
-- 📖 Update documentation as projects evolve.
-
----
 
 ## 🤝 Let's Connect!
 
